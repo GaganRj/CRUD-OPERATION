@@ -1,0 +1,12 @@
+body {
+  margin: 0px;
+  place-items: center;
+  width: 100vw;
+  min-width: 320px;
+  min-height: 100vh;
+  justify-content: center;
+  align-items: center;
+  scrollbar-width: none;
+  overflow-y: none;
+  overflow-x: hidden;
+}
